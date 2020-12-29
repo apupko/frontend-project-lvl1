@@ -43,7 +43,7 @@ const runGame = (name, attemptsCount = 3) => {
       no: false,
     };
 
-    if (attempt > attemptsCount) {
+    if (attempt > attemptsCount || result === false) {
       return result;
     }
 
