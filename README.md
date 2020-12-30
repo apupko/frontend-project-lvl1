@@ -5,3 +5,7 @@
 
 Brain Even game example:
 [![asciicast](https://asciinema.org/a/B59iIejKgpm61vhyqqJdcRhoU.png)](https://asciinema.org/a/B59iIejKgpm61vhyqqJdcRhoU)
+
+
+Brain Calc game example:
+[![asciicast](https://asciinema.org/a/eUzcJXlVFT8wP8550fJxt9dJF.png)](https://asciinema.org/a/eUzcJXlVFT8wP8550fJxt9dJF)

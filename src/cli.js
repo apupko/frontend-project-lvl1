@@ -11,3 +11,11 @@ export const readUserName = () => {
 export const print = (message) => console.log(message);
 
 export const read = (prompt = '') => readlineSync.question(prompt);
+
+export const printResult = (name, isWin) => {
+  if (isWin) {
+    print(`Congratulations, ${name}!`);
+    return;
+  }
+  print(`Let's try again, ${name}!`);
+};
