@@ -9,3 +9,7 @@ Brain Even game example:
 
 Brain Calc game example:
 [![asciicast](https://asciinema.org/a/eUzcJXlVFT8wP8550fJxt9dJF.png)](https://asciinema.org/a/eUzcJXlVFT8wP8550fJxt9dJF)
+
+
+Brain GCD game example:
+[![asciicast](https://asciinema.org/a/WgN4t3XEGt6MHVrRATNES2EFg.png)](https://asciinema.org/a/WgN4t3XEGt6MHVrRATNES2EFg)
