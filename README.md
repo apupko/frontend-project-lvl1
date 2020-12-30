@@ -17,3 +17,7 @@ Brain GCD game example:
 
 Brain progression game example:
 [![asciicast](https://asciinema.org/a/Ro0p4HfiH6V1awJosevUZ7XUS.png)](https://asciinema.org/a/Ro0p4HfiH6V1awJosevUZ7XUS)
+
+
+Brain prime game example:
+[![asciicast](https://asciinema.org/a/ihDBElEIRIfvYgk0awwdHrhMI.png)](https://asciinema.org/a/ihDBElEIRIfvYgk0awwdHrhMI)
