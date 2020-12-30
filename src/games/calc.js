@@ -17,7 +17,7 @@ const getRandomOperation = () => {
     3: { symbol: '/', calculate: division },
   };
 
-  const random = getRandomInt(0, 3);
+  const random = getRandomInt(0, 2);
   return mappingOperation[random];
 };
 
