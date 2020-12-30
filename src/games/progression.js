@@ -19,9 +19,9 @@ const run = () => {
   const progression = getRandomProgression();
   const numberIndex = getRandomInt(0, progression.length - 1);
 
-  const question = progression.reduce((acc, item, index) => (
-    index !== numberIndex ? `${acc} ${item}` : `${acc} ..`
-  ), '');
+  const question = progression.map((item, index) => (
+    index !== numberIndex ? `${item}` : '..'
+  )).join(' ');
   const correctAnswer = `${progression[numberIndex]}`;
 
   return { question, correctAnswer };
